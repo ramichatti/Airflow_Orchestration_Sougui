@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_cwiQoBZyEfGXaPERmjwPDQ" name="Produits_Ileyckom_SI" id="_cwFksBZyEfGXaPERmjwPDQ" dataPackage="_cwiQoRZyEfGXaPERmjwPDQ" Server="Localhost 127.0.0.1" FilePath="E:/Esprit/4ERP-BI/Semestre2/PI-BI/data/ILEY_FORCED_MATCH.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_cwiQoRZyEfGXaPERmjwPDQ" name="default" dataManager="_cwiQoBZyEfGXaPERmjwPDQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_cwiQohZyEfGXaPERmjwPDQ" id="_RuGd8BZyEfGXaPERmjwPDQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cwiQoxZyEfGXaPERmjwPDQ" label="Original_Iley_Name" length="84" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cwiQpBZyEfGXaPERmjwPDQ" label="Original_Iley_Category" length="123" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cwiQpRZyEfGXaPERmjwPDQ" label="Iley_Price" length="6" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cwiQphZyEfGXaPERmjwPDQ" label="Matched_Sougui_Name" length="81" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cwiQpxZyEfGXaPERmjwPDQ" label="Matched_Category" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cwiQqBZyEfGXaPERmjwPDQ" label="Sougui_Reference" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

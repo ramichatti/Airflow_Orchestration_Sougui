@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_2iIQURZ7EfGXaPERmjwPDQ" name="Produits_Sougui_SI" dataPackage="_2iI3YBZ7EfGXaPERmjwPDQ" Server="Localhost 127.0.0.1" FilePath="E:/Esprit/4ERP-BI/Semestre2/PI-BI/data/SOUGUI_REFERENCE.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_2iI3YBZ7EfGXaPERmjwPDQ" name="default" dataManager="_2iIQURZ7EfGXaPERmjwPDQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_2iI3YRZ7EfGXaPERmjwPDQ" id="_tYB4QBZ7EfGXaPERmjwPDQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2iI3YhZ7EfGXaPERmjwPDQ" label="Reference" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2iI3YxZ7EfGXaPERmjwPDQ" label="Nom" length="83" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2iI3ZBZ7EfGXaPERmjwPDQ" label="Categorie" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2iI3ZRZ7EfGXaPERmjwPDQ" label="Forced_Category" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2iI3ZhZ7EfGXaPERmjwPDQ" label="Prix_Unitaire_TND" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

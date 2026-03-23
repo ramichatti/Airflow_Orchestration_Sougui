@@ -1,0 +1,172 @@
+﻿Num_facture;Reference;Description;PU_HT;Quantite;Prix_Total_HT
+DEV25-01;BVC-001;Bonbonniére en verre craquelé + couvercle en cuivre;66.5;850;56525.0
+DEV25-01;LIV;Frais de Livraison;1500.0;1;1500.0
+DEV25-05;EB-001;Elémént de bureau en Bois;25.0;150;3750.0
+FAC25-07;BVC-001;Bonbonnière en verre craquelé+ couvercle en cuivre;66.5;850;56525.0
+FAC25-07;LIV;Frais de Livraison;1500.0;1;1500.0
+FAC25-10;BVC-001;Bonbonnière en verre craquelé + Couvercle en cuivre;66.5;850;56525.0
+FAC25-10;LIV;Frais de Livraison;1500.0;1;1500.0
+FAC25-12;BVC-001;Bonbonnière en verre craquelé + Couvercle en cuivre;66.5;850;56525.0
+FAC25-12;LIV;Frais de Livraison;1500.0;1;1500.0
+DEV25-04;BVC-001;Bonbonnière en verre craquelé+ couvercle en cuivre;66.5;33;2194.5
+FAC25-11;BVC-001;Bonbonnière en verre craquelé + Couvercle en cuivre;66.5;33;2194.5
+DEV25-08;SM-001;Saphir Majesté;220.0;5;1100.0
+DEV25-08;AI-001;Azur Impérial;170.0;15;2550.0
+DEV25-08;IMP-001;Impérial d'or;170.0;20;3400.0
+DEV25-08;Pers;Packaging & personnalisation;425.0;1;425.0
+DEV25-13;CP-01;Coffret en bois personnalisé;15.0;20;300.0
+FAC25-32;SM-001;Saphir Majesté;220.0;5;1100.0
+FAC25-32;AI-001;Azur Impérial;170.0;15;2550.0
+FAC25-32;IMP-001;Impérial d'or;170.0;20;3400.0
+FAC25-32;Pers;Packaging & personnalisation;425.0;1;425.0
+FAC25-36;Pac-002;Coffret Personnalisé;15.0;20;300.0
+FAC25-37;SM-001;Saphir Majesté;220.0;5;1100.0
+FAC25-37;AI-001;Azur Impérial;170.0;15;2550.0
+FAC25-37;IMP-001;Impérial d'or;170.0;20;3400.0
+FAC25-37;Pers;Packaging & personnalisation;425.0;1;425.0
+FAC25-13;SS-MT-01;Jeu De Mimes - يسنوتلاب ميم - Jeu D'ambiance;48.73;1;48.73
+FAC25-13;JA-001-ACH;L'archive - فيشرل;40.33;2;80.66
+FAC25-13;SS-TT-001;TALA3 BITOUNSI - يسنوتلاب عّلط;40.33;1;40.33
+DEV24-24;BA;Bon d'achat 100 DT;100.0;500;50000.0
+FAC25-02;BA;Bon d'achat de 100 DT;100.0;500;50000.0
+DEV24-17;SBP;Support PC en Bois personnalisé 19%;35.0;450;15750.0
+DEV24-18;LB;Lunch Box + Bourse personnalisé 19%;33.0;450;14850.0
+DEV24-19;DA1;Coffret Diffuseur 100 ml 19%;32.0;450;14400.0
+DEV24-20;DA2;Coffret Diffuseur 50 ml 19%;22.0;450;9900.0
+DEV25-14;BON-001;Bonbonniére Saphir Majesté;240.0;8;1920.0
+DEV25-14;CO-001;Coffret;35.0;8;280.0
+DEV25-14;Pers;Personnalisation + carte de vœux;260.0;1;260.0
+DEV25-06;PC-002;Porte clé;3.3;2000;6600.0
+DEV25-06;SS-002;Stylos;0.84;1500;1260.0
+DEV25-06;PERS;Personnalisation;0.35;1500;525.0
+DEV25-07;PC-002;Porte clé;2.08;2000;4160.0
+DEV25-07;SS-002;Stylos;0.84;1500;1260.0
+DEV25-07;PERS;Personnalisation;0.35;1500;525.0
+DEV25-12;SB-01;Stylo Blanc;1.0;1;1.0
+DEV25-12;Pers;Personnalisation;0.35;1500;525.0
+FAC25-29;ST;Stylo LilasDream;1.19;1500;1785.0
+FAC25-38;BON-001;Bonbonnière Verre + Cuivre;36;1;36.0
+FAC25-38;BON-002;Bonbonnière Verre + Cuivre;50;2;100.0
+FAC24-01;S1;3 Postes;32.0;3;96.0
+FAC24-01;S2;4 Postes;32.0;4;128.0
+FAC24-01;S3;3 Postes + 2 vinyles;32.0;3;96.0
+FAC24-01;S4;5 Postes;32.0;5;160.0
+FAC24-02;S1;4 Postes;32.0;4;128.0
+FAC24-02;S2;5 Postes;32.0;5;160.0
+FAC24-02;S3;4 Postes;32.0;4;128.0
+FAC24-02;S4;4 Postes;32.0;4;128.0
+FAC25-01;TL1;TL1;32.0;7;224.0
+FAC25-01;TL2;TL2;32.0;4;128.0
+FAC25-05;S1;4 Postes;32.0;4;128.0
+FAC25-05;S2;5 Postes;32.0;5;160.0
+FAC25-05;S3;4 Postes;32.0;4;128.0
+FAC25-08;S1;4 Postes;32.0;4;128.0
+FAC25-08;S2;4 Postes;32.0;4;128.0
+FAC25-08;S3;4 Postes;32.0;4;128.0
+FAC25-08;S4;4 Postes;32.0;4;128.0
+FAC25-08;S4;adaptation couverture;15.0;1;15.0
+FAC25-13;S1;S1 : 4 postes;32.0;4;128.0
+FAC25-13;S2;S2 : 4 postes;32.0;4;128.0
+FAC25-13;S3;S3 : 3 postes;32.0;3;96.0
+FAC25-15;S1;3 postes;32.0;3;96.0
+FAC25-15;S2;4 postes;32.0;4;128.0
+FAC25-15;S3;4 postes;32.0;4;128.0
+FAC25-15;S4;4 postes;32.0;4;128.0
+FAC25-15;OP;3 postes;32.0;3;96.0
+FAC25-18;H;Habillage;140.0;1;140.0
+FAC25-18;S1;3 postes;32.0;3;96.0
+FAC25-18;ST;Stickers;40.0;1;40.0
+FAC25-20;S1;3 postes;32.0;3;96.0
+FAC25-20;S2;2 postes;32.0;2;64.0
+FAC25-20;S2;3 bannières;40.0;3;120.0
+FAC25-20;S3;2 postes;32.0;2;64.0
+FAC25-20;S3;1 bannière;40.0;1;40.0
+FAC25-21;S1;4 postes;32.0;4;128.0
+FAC25-21;S2;2 postes;32.0;2;64.0
+FAC25-21;S3;4 postes;32.0;4;128.0
+FAC25-23;S1;2 postes;32.0;2;64.0
+FAC25-23;S2;4 postes;32.0;4;128.0
+FAC25-23;S3;4 postes;32.0;4;128.0
+FAC25-23;ET;Evenement Flyer;50.0;1;50.0
+FAC25-23;ET;Evenement mur;50.0;1;50.0
+FAC25-23;ET;Evenement certificat;32.0;1;32.0
+FAC25-23;ET;Evenement invitation;32.0;1;32.0
+FAC25-26;S1;4 postes;32.0;4;128.0
+FAC25-26;S2;3 postes;32.0;3;96.0
+FAC25-30;S1-10;4 Postes;32.0;4;128.0
+FAC25-30;S1-11;3 Postes;32.0;3;96.0
+FAC25-30;S2-11;4 Postes;32.0;4;128.0
+FAC25-34;Ph-T1;Photophore Sidi Bousaid T1;15.0;5;75.0
+FAC25-34;Ph-T2;Photophore Sidi Bousaid T2;25.0;5;125.0
+FAC25-34;Ph-T3;Photophore Sidi Bousaid T3;30.0;5;150.0
+FAC25-34;Ph-T4;Photophore Sidi Bousaid T4;38.0;5;190.0
+FAC25-34;TB-01;Trio Bougies Sidi Bousaid;13.0;5;65.0
+DEV25-02;SPC;Support PC en Bois + Bloc notes en bois Personnalisé;45.0;100;4500.0
+DEV25-02;LB;Lunch box personnalisé;34.0;100;3400.0
+DEV25-02;BLB;Bourse Lunch box personnalisé;7.0;100;700.0
+DEV25-03;SPC;Support PC en Bois Type;2.0;33;66.0
+FAC25-03;TL1;TL1;32.0;2;64.0
+FAC25-03;TL2;TL2;32.0;3;96.0
+FAC25-06;S1;3 Postes;32.0;3;96.0
+FAC25-06;S2;2 Postes;32.0;2;64.0
+FAC25-09;S1;2 Postes;32.0;2;64.0
+FAC25-09;S2;3 Postes;32.0;3;96.0
+FAC25-09;S3;2 Postes;32.0;2;64.0
+FAC25-14;S1;S1 : 3 postes;32.0;3;96.0
+FAC25-14;S2;S2 : 2 postes;32.0;2;64.0
+FAC25-14;S3;S3 : 3 postes;32.0;3;96.0
+FAC25-16;S1;2 postes;32.0;2;64.0
+FAC25-16;S2;3 postes;32.0;3;96.0
+FAC25-16;S3;4 postes;32.0;4;128.0
+FAC25-16;AC;Adaptation couverture;15.0;1;15.0
+FAC25-17;S1;4 postes;32.0;4;128.0
+FAC25-17;S2;3 postes;32.0;3;96.0
+FAC25-19;S1;3 postes;32.0;3;96.0
+FAC25-19;S2;3 postes;32.0;3;96.0
+FAC25-22;S1;1 postes;32.0;1;32.0
+FAC25-24;S1;4 postes;32.0;4;128.0
+FAC25-25;S1;3 postes;32.0;3;96.0
+FAC25-31;S1-10;3 Postes;32.0;3;96.0
+FAC25-33;BVC-001;Bonbonniére en verre craquelé + Cuivre;45.0;10;450.0
+FAC25-33;LIV;Frais de Livraison;20.0;1;20.0
+FAC25-14;LCG1;Logo + Charte Graphique;150.0;1;150.0
+DEV24-15;LB2;Lunch Box 19%;29.9;480;14352.0
+DEV24-15;CP1;Calendrier Perpétuel 19%;105.0;480;50400.0
+DEV24-15;JTTT;Jeu Tic-Tac-Toe 19%;85.0;480;40800.0
+DEV24-21;LB;Lunch Box 19%;29.0;480;13920.0
+DEV24-21;BLB;Bourse Lunch Box 19%;5.0;480;2400.0
+DEV24-21;PLB;Personnalisation Lunch Box 19%;2.0;480;960.0
+DEV24-21;PBLB;Personnalisation Bourse 19%;2.0;480;960.0
+DEV24-22;LB;Lunch Box;29.0;500;14500.0
+DEV24-22;BLB;Bourse Lunch Box;5.0;500;2500.0
+DEV24-22;PLB;Personnalisation Lunch Box;2.0;500;1000.0
+DEV24-22;PBLB;Personnalisation Bourse;2.0;500;1000.0
+DEV24-23;PCP;Papier Craft 15*10 personnalisé;1.0;500;500.0
+DEV25-09;TP-001;Thermos à paille;39.0;450;17550.0
+DEV25-09;Pers-1;Personnalisation;1.0;3;3.0
+DEV25-09;TOT-001;Tote Bag;10.0;450;4500.0
+DEV25-09;Pers-2;Personnalisation;2.0;1;2.0
+DEV25-10;TP-001;Thermos à paille;28.15;450;12667.5
+DEV25-10;Pers-1;Personnalisation;1.0;2;2.0
+DEV25-10;TOT-001;Tote Bag;8.0;450;3600.0
+DEV26-01;TP-001;Thermos à paille;28.15;20;563.0
+DEV26-01;Pers-1;Personnalisation;2.0;20;40.0
+DEV26-01;TOT-001;Tote bag personnalisé;8.0;20;160.0
+FAC24-02;LB;Lunch Box;29.0;500;14500.0
+FAC24-02;BLB;Bourse Lunch Box;5.0;500;2500.0
+FAC24-02;PLB;Personnalisation Lunch Box;2.0;500;1000.0
+FAC24-02;PBLB;Personnalisation Bourse Lunch Box;2.0;500;1000.0
+FAC24-02;PCP;Papier Craft 15*10 personnalisé;1.0;500;500.0
+FAC24-02;Domiciliation;: Attijari Bank Tunis Reste à payer;1.0;6;6.0
+FAC25-35;TP-001;Thermos à paille;28.15;450;12667.5
+FAC25-35;Pers-1;Personnalisation;2.0;450;900.0
+FAC25-35;TOT-001;Tote Bag personnalisé;8.0;450;3600.0
+DEV24-16;CMM;Coffret Mathred + Lance-Parfum + Chapelet 19%;62.0;432;26784.0
+DEV25-06;QR-001;QR code;250.0;1;250.0
+DEV25-11;QR;QR code;200.0;1;200.0
+FAC24-02;CMM;Coffret Mathred + Lance Parfum + Chapelet 19%;62.0;432;26784.0
+FAC24-02;CMM;Coffret Mathred + Lance Parfum + Chapelet;62.0;432;26784.0
+FAC24-02;Domiciliation;: Attijari Bank Tunis Reste;1.0;6;6.0
+FAC25-04;CMM;Coffret mathred + lance parfum;62.0;3;186.0
+FAC25-27;QR;QR Code;200.0;1;200.0
+FAC25-28;QR;QR Code;200.0;1;200.0

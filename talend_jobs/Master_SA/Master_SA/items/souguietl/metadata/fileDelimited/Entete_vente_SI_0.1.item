@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_hrw-4P3kEfCSuNPgWG1-bg" name="Entete_vente_SI" dataPackage="_hrw-4f3kEfCSuNPgWG1-bg" Server="Localhost 127.0.0.1" FilePath="E:/Esprit/4ERP-BI/Semestre2/PI-BI/data/entete_vente.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_hrw-4f3kEfCSuNPgWG1-bg" name="default" dataManager="_hrw-4P3kEfCSuNPgWG1-bg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_hrw-4v3kEfCSuNPgWG1-bg" id="_a5FxMP3kEfCSuNPgWG1-bg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-4_3kEfCSuNPgWG1-bg" label="Num_facture" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-5P3kEfCSuNPgWG1-bg" label="Date" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-5f3kEfCSuNPgWG1-bg" label="Nom" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-5v3kEfCSuNPgWG1-bg" label="Matricule_fiscal" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-5_3kEfCSuNPgWG1-bg" label="Adresse" length="76" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-6P3kEfCSuNPgWG1-bg" label="Montant_Total_HT" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-6f3kEfCSuNPgWG1-bg" label="TVA" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-6v3kEfCSuNPgWG1-bg" label="Timbre" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-6_3kEfCSuNPgWG1-bg" label="Total_TTC" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hrw-7P3kEfCSuNPgWG1-bg" label="Type" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
